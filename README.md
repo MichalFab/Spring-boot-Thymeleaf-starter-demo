@@ -3,7 +3,7 @@ Starter App for Spring Boot & Thymeleaf projects
 
 Simple 'Hello World' application for Spring projects:
 
-![Application screenshot](doc/1.jpg?raw=true "Application")
+![Application screenshot](doc/1.jpg "Application")
 
 Prerequisites
 ----------------
